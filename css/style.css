@@ -1,0 +1,143 @@
+body{
+    background-color: #edf2c5;
+    width: 1260px;
+    height: 940px;
+    margin :53px 160px 35px 160px;
+}
+.bd{
+    width: 940px;
+    margin: 0 auto;
+}
+
+header h1{
+    color:#778A50;
+    font-size: 44px;
+    font-family: Arial Black ;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.login{
+    display: flex;
+    /* margin :53px 10px 17px 10px; */
+}
+
+.login img, .login p, .line{
+    margin: auto 3px;
+}
+
+.line{
+    border-right: #778A50 1px solid;
+    height: 25px;
+}
+
+header p{
+    color:#778A50;
+    font-size: 14px;
+    font-family: Arial Black;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    width: 60px;
+    height: 25px;
+    text-align: center;
+}
+
+nav ul{
+    background-color: #778A50;
+    width: 900px;
+    height: 44px;
+    display: flex;
+    margin: -25px 0px 20px 0px;
+  }
+
+nav li{
+    color: #edf2c5;
+    font-size: 18px;
+    font-family: Arial Black ;
+    margin: 10px 65px;
+    margin-left: -10px;
+}
+
+.side{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+
+.xxx{
+    color: #edf2c5;
+    font-size: 16px;
+    font-family: Arial Black ;
+    background-color: #778A50;
+    height: 35px;
+    padding-left: 30px;
+    padding-top: 8px;
+}
+
+.line2{
+    width: 430px;
+    margin-top: -74px;
+    color: #7d7d7d;
+
+}
+.email{
+    color:  #7d7d7d;
+    font-size: 14px;
+    font-family: ArialMT Regular;
+    padding: 15px;
+    width: 430px;
+    height: 110px;
+    margin-top: -14px;
+}
+
+.vege{
+  
+    width:445px;
+
+}
+.vegeimg{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.pepper{
+    width: 140px;
+    height:140px;
+}
+.carrot{
+    width: 140px;
+    height:140px;
+}
+.corn{
+    width: 140px;
+    height:140px;
+}
+.sidearticle{
+    color:  #7d7d7d;
+    font-size: 14px;
+    font-family: ArialMT Regular;
+    background-color: #f7fbda;
+    padding: 15px;
+    width: 430px;
+    height: 110px;
+    margin-top:-1px;
+}
+
+footer{
+    color: #edf2c5;
+    font-size: 12px;
+    font-family: ArialMT Regular;
+    background-color: #778A50;
+    text-align: center;
+    padding: 8px 0;
+    height: 50px;
+    margin-top:-10px;
+} 
+.footertext{
+    margin-top: 20px;
+}
